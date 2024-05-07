@@ -5,5 +5,4 @@ chat screen code
 Lase seen code
 Attachment
 Last seen hide
-Adding the audio call feature
-Adding the video call feature
+
