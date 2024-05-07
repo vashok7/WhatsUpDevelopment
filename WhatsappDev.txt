@@ -4,3 +4,4 @@ Profile page code
 chat screen code
 Lase seen code
 Attachment
+Last seen hide
